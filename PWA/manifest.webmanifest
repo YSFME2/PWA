@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "PWA-App Testing app for testing issues",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "Icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "PWA-App Testing",
+  "short_name": "PWA-App",
+  "start_url": "/Home/Index"
+}
